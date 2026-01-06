@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "ワールド・ランプシェード [reunion]",
+  "base_artist": "Leo/need",
+  "createdAt": "2026-01-06T09:03:51.051466Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ワールド・ランプシェード",
+      "artist": "りょーくん",
+      "has_synced": true,
+      "path": "select/01_ワールド・ランプシェード_りょーくん.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ワールド・ランプシェード feat. buzzG",
+      "artist": "buzzG",
+      "has_synced": false,
+      "path": "select/02_ワールド・ランプシェード_feat._buzzG_buzzG.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ワールド・ランプシェード",
+      "artist": "buzzG",
+      "has_synced": false,
+      "path": "select/03_ワールド・ランプシェード_buzzG.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ワールド・ランプシェード",
+      "artist": "Ryo-kun",
+      "has_synced": true,
+      "path": "select/04_ワールド・ランプシェード_Ryo-kun.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ワールド・ランプシェード",
+      "artist": "buzzG feat. あやぽんず＊",
+      "has_synced": false,
+      "path": "select/05_ワールド・ランプシェード_buzzG_feat._あやぽんず.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ワールド・ランプシェード　buzzG Feat.GUMI",
+      "artist": "buzzG feat.初音ミク,GUMI",
+      "has_synced": false,
+      "path": "select/06_ワールド・ランプシェード_buzzG_Feat.GUMI_buzzG_feat.初音ミク,GUMI.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ワールド・ランプシェード [reunion] (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&KAITO)",
+      "artist": "Leo/need",
+      "has_synced": false,
+      "path": "select/pl_01_ワールド・ランプシェード_[reunion]_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&KAITO)_Leo_need.txt"
+    }
+  ]
+}
